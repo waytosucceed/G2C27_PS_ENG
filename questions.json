@@ -1,516 +1,518 @@
 {
-  "heading": "Diphthongs “ee” and “ea”",
+  "heading": "O vs OO words",
   "topics": [
     {
-      "heading": "Diphthongs “ee” and “ea”",
+      "heading": "O vs OO words",
       "questions": [
         {
           "questionNo": 1,
-          "question": "How do you say \"leaf\"? <br> <img width='150px' src='./assests/images/question/1.jpg'>",
-          
+          "question": "Which word has the same 'o' sound as 'box'? <br> <img width='150px' src='./assests/images/question/1.png'>",
+          "questionSound":"./assests/sounds/question/box.mp3",
           "options": [
             {
-              "text": "/lef/",
+              "text": "bow",
               "image": "./assests/images/option/1.jpg",
-              "sound": "./assests/sounds/lef.mp3"
+              "sound": "./assests/sounds/option/bow.mp3"
             },
             {
-              "text": "/leaf/",
+              "text": "fox",
               "image": "./assests/images/option/2.jpg",
-              "sound": "./assests/sounds/leaf.mp3"
+              "sound": "./assests/sounds/option/fox.mp3"
             },
             {
-              "text": "/loof/",
+              "text": "nose",
               "image": "./assests/images/option/3.jpg",
-              "sound": "./assests/sounds/loof.mp3"
-            },
-            {
-              "text": "/life/",
-              "image": "./assests/images/option/4.jpg",
-              "sound": "./assests/sounds/life.mp3"
+              "sound": "./assests/sounds/option/nose.mp3"
             }
           ],
           "answer": 1,
-          "explanation": "The 'ea' in 'leaf' makes the long 'e' sound."
+          "explanation": "The word 'fox' has the same ‘aw’ sound as in 'box'. This sound is produced when the mouth is slightly open and relaxed."
         },
         {
           "questionNo": 2,
-          "question": "Pick the odd one out:",
+          "question": "In the word 'school', how is 'oo' pronounced?<br> <img width='150px' src='./assests/images/question/2.png'>",
+          "questionSound":"./assests/sounds/question/school.mp3",
           "options": [
             {
-              "text": "Sweet",
-              "image": "./assests/images/option/5.jpg"
+              "text": "Like in 'book'",
+              "image": "./assests/images/option/4.jpg",
+              "sound": "./assests/sounds/option/book.mp3"
             },
             {
-              "text": "Meet",
-              "image": "./assests/images/option/6.jpg"
+              "text": "Like in 'door'",
+              "image": "./assests/images/option/5.jpg",
+              "sound": "./assests/sounds/option/door.mp3"
             },
             {
-              "text": "Beet",
-              "image": "./assests/images/option/7.jpg"
-            },
-            {
-              "text": "Bet",
-              "image": "./assests/images/option/8.jpg"
+              "text": "Like in 'fool'",
+              "image": "./assests/images/option/6.jpg",
+              "sound": "./assests/sounds/option/fool.mp3"
             }
           ],
-          "answer": 3,
-          "explanation": "'Bet' doesn't have the 'ee' spelling and doesn't make the long 'e' sound."
+          "answer": 2,
+          "explanation": "In 'school', the 'oo' makes a long sound, similar to the 'oo' in 'fool'."
         },
         {
           "questionNo": 3,
-          "question": "How many 'ee' or 'ea' sounds in <br> 'The sheep eats leaves'? <br> <img width='150px' src='./assests/images/question/3.jpg'>",
-          "questionSound":"./assests/sounds/sentence1.mp3",
+          "question": "Which word has a different 'o' sound from the others?",
           "options": [
             {
-              "text": "Two",
-              "image": "./assests/images/option/9.jpg"
+              "text": "dot",
+              "image": "./assests/images/option/7.jpg",
+              "sound": "./assests/sounds/option/dot.mp3"
             },
             {
-              "text": "Three",
-              "image": "./assests/images/option/10.jpg"
+              "text": "pot",
+              "image": "./assests/images/option/8.jpg",
+              "sound": "./assests/sounds/option/pot.mp3"
             },
             {
-              "text": "Four",
-              "image": "./assests/images/option/11.jpg"
-            },
-            {
-              "text": "Five",
-              "image": "./assests/images/option/12.jpg"
+              "text": "coat",
+              "image": "./assests/images/option/9.jpg",
+              "sound": "./assests/sounds/option/coat.mp3"
             }
           ],
-          "answer": 1,
-          "explanation": "'Sheep', 'eats', and 'leaves' all have the long 'e' sound."
+          "answer": 2,
+          "explanation": "'Coat' has a long 'o' sound, while 'dot' and 'pot' have an ‘aw’ sound. The 'oa' in 'coat' typically represents the long 'o' sound."
         },
         {
           "questionNo": 4,
-          "question": "Which word has a different 'ea' sound? <br> ",
+          "question": "Which word has the same 'oo' sound as 'foot'? <br> <img width='150px' src='./assests/images/question/4.png'>",
+          "questionSound":"./assests/sounds/question/foot.mp3",
           "options": [
             {
-              "text": "Bread",
+              "text": "moon",
+              "image": "./assests/images/option/10.jpg",
+              "sound": "./assests/sounds/option/moon.mp3"
+            },
+            {
+              "text": "book",
+              "image": "./assests/images/option/11.jpg",
+              "sound": "./assests/sounds/option/book.mp3"
+            },
+            {
+              "text": "cool",
+              "image": "./assests/images/option/12.jpg",
+              "sound": "./assests/sounds/option/cool.mp3"
+            },
+            {
+              "text": "food",
               "image": "./assests/images/option/13.jpg",
-              "sound": "./assests/sounds/bread.mp3"
-            },
-            {
-              "text": "Head",
-              "image": "./assests/images/option/14.jpg",
-              "sound": "./assests/sounds/head.mp3"
-            },
-            {
-              "text": "Dead",
-              "image": "./assests/images/option/15.jpg",
-              "sound": "./assests/sounds/dead.mp3"
-            },
-            {
-              "text": "Bead",
-              "image": "./assests/images/option/16.jpg",
-              "sound": "./assests/sounds/bead.mp3"
+              "sound": "./assests/sounds/option/food.mp3"
             }
           ],
-          "answer": 3,
-          "explanation": "'Bead' has a long 'e' sound, while the others have a short 'e' sound."
+          "answer": 1,
+          "explanation": "'Book' and 'foot' have the same short 'oo' sound. This is different from the long 'oo' sound in words like 'moon', 'cool', and 'food'."
         },
         {
           "questionNo": 5,
-          "question": "What's the rule for 'ea' words?",
+          "question": "Which word has a different 'oo' sound from the others? ",
           "options": [
             {
-              "text": "Always long 'e'",
-              "image": "./assests/images/option/17.jpg"
+              "text": "spoon",
+              "image": "./assests/images/option/14.jpg",
+              "sound": "./assests/sounds/option/spoon.mp3"
             },
             {
-              "text": "Always short 'e'",
-              "image": "./assests/images/option/18.jpg"
+              "text": "room",
+              "image": "./assests/images/option/15.jpg",
+              "sound": "./assests/sounds/option/room.mp3"
             },
             {
-              "text": "Can be long 'e' or other sounds",
-              "image": "./assests/images/option/19.jpg"
+              "text": "look",
+              "image": "./assests/images/option/16.jpg",
+              "sound": "./assests/sounds/option/look.mp3"
             },
             {
-              "text": "No rule",
-              "image": "./assests/images/option/20.jpg"
-            }
-          ],
-          "answer": 2,
-          "explanation": "'ea' often makes a long 'e' sound, but it can make other sounds too."
-        },
-        {
-          "questionNo": 6,
-          "question": "Which word has the same vowel sound as 'bee'?",
-          "options": [
-            {
-              "text": "Be",
-              "image": "./assests/images/option/21.jpg"
-            },
-            {
-              "text": "Bed",
-              "image": "./assests/images/option/22.jpg"
-            },
-            {
-              "text": "Bet",
-              "image": "./assests/images/option/23.jpg"
-            },
-            {
-              "text": "Bend",
-              "image": "./assests/images/option/24.jpg"
-            }
-          ],
-          "answer": 0,
-          "explanation": "'Be' has the same long 'e' sound as 'bee', despite different spellings."
-        },
-        {
-          "questionNo": 7,
-          "questionSound": "./assests/sounds/been.mp3",
-          "question": "What's the 'ee' sound in 'been'? <br> ",
-          "options": [
-            {
-              "text": "Long 'e'",
-              "image": "./assests/images/option/25.jpg"
-            },
-            {
-              "text": "Short 'i'",
-              "image": "./assests/images/option/26.jpg"
-            },
-            {
-              "text": "Can be both",
-              "image": "./assests/images/option/27.jpg"
-            },
-            {
-              "text": "Neither",
-              "image": "./assests/images/option/28.jpg"
-            }
-          ],
-          "answer": 0,
-          "explanation": "'Been' is pronounced with a long ‘ee’ sound."
-        },
-        {
-          "questionNo": 8,
-          "questionSound": "./assests/sounds/mr_bean.mp3",
-          "question": "Hear the word and choose the correct spelling: <br> ",
-          "options": [
-            {
-              "text": "Mr. Bean",
-              "image": "./assests/images/option/29.jpg"
-            },
-            {
-              "text": "Mr. Bin",
-              "image": "./assests/images/option/30.jpg"
-            },
-            {
-              "text": "Mr. Ban",
-              "image": "./assests/images/option/31.jpg"
-            }
-          ],
-          "answer": 0,
-          "explanation": "The correct spelling is B-E-A-N. The diphthong 'ea' makes a long ‘e’ sound."
-        },
-        {
-          "questionNo": 9,
-          "question": "Which word has a different 'ea' sound? <br> <img width='150px' src='./assests/images/question/9.jpg'>",
-          "options": [
-            {
-              "text": "Reach",
-              "image": "./assests/images/option/32.jpg",
-              "sound": "./assests/sounds/rench.mp3"
-            },
-            {
-              "text": "Teach",
-              "image": "./assests/images/option/33.jpg",
-              "sound": "./assests/sounds/teach.mp3"
-            },
-            {
-              "text": "Beach",
-              "image": "./assests/images/option/34.jpg",
-              "sound": "./assests/sounds/beach.mp3"
-            },
-            {
-              "text": "Heart",
-              "image": "./assests/images/option/35.jpg",
-              "sound": "./assests/sounds/heart.mp3"
+              "text": "noon",
+              "image": "./assests/images/option/17.jpg",
+              "sound": "./assests/sounds/option/noon.mp3"
             }
           ],
           "answer": 3,
-          "explanation": "'Heart' has an 'a' sound, while the others have a long 'e' sound."
+          "explanation": "'Look' has a short 'oo' sound, while 'spoon', 'room', and 'noon' all have a long 'oo' sound."
         },
         {
-          "questionNo": 10,
-          "questionSound": "./assests/sounds/read.mp3",
-          "question": "Hear the word  and complete the spelling: R_ _D <br>",
+          "questionNo": 6,
+          "question": "Which word has the same 'o' sound as 'hope'? <br><img width='150px' src='./assests/images/question/6.png'>",
+          "questionSound":"./assests/sounds/question/hope.mp3",
           "options": [
             {
-              "text": "EE",
-              "image": "./assests/images/option/36.jpg"
+              "text": "cop",
+              "image": "./assests/images/option/18.jpg",
+              "sound": "./assests/sounds/option/cop.mp3"
             },
             {
-              "text": "AE",
-              "image": "./assests/images/option/37.jpg"
+              "text": "rope",
+              "image": "./assests/images/option/19.jpg",
+              "sound": "./assests/sounds/option/rope.mp3"
             },
             {
-              "text": "EA",
-              "image": "./assests/images/option/38.jpg"
+              "text": "drop",
+              "image": "./assests/images/option/20.jpg",
+              "sound": "./assests/sounds/option/drop.mp3"
             },
             {
-              "text": "None of the above",
-              "image": "./assests/images/option/39.jpg"
+              "text": "top",
+              "image": "./assests/images/option/21.jpg",
+              "sound": "./assests/sounds/option/top.mp3"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Rope' has the same long 'o' sound as 'hope'. This sound is often represented by an 'o' followed by a silent 'e' at the end of a word."
+        },
+        {
+          "questionNo": 7,
+          "question": "In the word 'flood', how is 'oo' pronounced? <br> <img width='150px' src='./assests/images/question/7.png'>",
+          "questionSound":"./assests/sounds/question/flood.mp3",
+          "options": [
+            {
+              "text": "Like in 'moon'",
+              "image": "./assests/images/option/22.jpg",
+              "sound": "./assests/sounds/option/moon.mp3"
+            },
+            {
+              "text": "Like in 'book'",
+              "image": "./assests/images/option/23.jpg",
+              "sound": "./assests/sounds/option/book.mp3"
+            },
+            {
+              "text": "Like in 'blood'",
+              "image": "./assests/images/option/24.jpg",
+              "sound": "./assests/sounds/option/blood.mp3"
             }
           ],
           "answer": 2,
-          "explanation": "The correct spelling is R-E-A-D. The diphthong 'ea' makes a long ‘e’ sound."
+          "explanation": "The 'oo' in 'flood' is pronounced with an 'uh' sound, like in 'blood'."
         },
-        
+        {
+          "questionNo": 8,
+          "question": "Which word has a different 'o' sound from the others?",
+          "options": [
             {
-              "questionNo": 11,
-              "question": "Which word rhymes with \"bee\"? <br> ",
-              "options": [
-                {
-                  "text": "Key",
-                  "image": "./assests/images/option/40.jpg",
-                  "sound": "./assests/sounds/key.mp3"
-                },
-                {
-                  "text": "They",
-                  "image": "./assests/images/option/41.jpg",
-                  "sound": "./assests/sounds/they.mp3"
-                },
-                {
-                  "text": "Play",
-                  "image": "./assests/images/option/42.jpg",
-                  "sound": "./assests/sounds/play.mp3"
-                },
-                {
-                  "text": "Buy",
-                  "image": "./assests/images/option/43.jpg",
-                  "sound": "./assests/sounds/buy.mp3"
-                }
-              ],
-              "answer": 0,
-              "explanation": "\"Key\" rhymes with \"bee\", both having the long \"e\" sound despite different spellings."
+              "text": "dog",
+              "image": "./assests/images/option/25.jpg",
+              "sound": "./assests/sounds/option/dog.mp3"
             },
             {
-              "questionNo": 12,
-              "question": "How many \"ee\" or \"ea\" sounds in \"The green leaves seem neat\"? <br>",
-              "options": [
-                {
-                  "text": "Two",
-                  "image": "./assests/images/option/44.jpg"
-                },
-                {
-                  "text": "Three",
-                  "image": "./assests/images/option/45.jpg"
-                },
-                {
-                  "text": "Four",
-                  "image": "./assests/images/option/46.jpg"
-                },
-                {
-                  "text": "Five",
-                  "image": "./assests/images/option/47.jpg"
-                }
-              ],
-              "answer": 2,
-              "explanation": "\"Green\", \"leaves\", \"seem\", and \"neat\" all have the long \"e\" sound."
+              "text": "log",
+              "image": "./assests/images/option/26.jpg",
+              "sound": "./assests/sounds/option/log.mp3"
             },
             {
-              "questionNo": 13,
-              "question": "Which word has a different vowel sound? <br> ",
-              "options": [
-                {
-                  "text": "Meet",
-                  "image": "./assests/images/option/48.jpg",
-                  "sound": "./assests/sounds/meet.mp3"
-                },
-                {
-                  "text": "Meat",
-                  "image": "./assests/images/option/49.jpg",
-                  "sound": "./assests/sounds/meat.mp3"
-                },
-                {
-                  "text": "Melt",
-                  "image": "./assests/images/option/50.jpg",
-                  "sound": "./assests/sounds/melt.mp3"
-                },
-                {
-                  "text": "Mead",
-                  "image": "./assests/images/option/51.jpg",
-                  "sound": "./assests/sounds/mead.mp3"
-                }
-              ],
-              "answer": 2,
-              "explanation": "\"Melt\" has a short \"e\" sound, while the others have a long \"e\" sound."
+              "text": "frog",
+              "image": "./assests/images/option/27.jpg",
+              "sound": "./assests/sounds/option/frog.mp3"
             },
             {
-              "questionNo": 14,
-              "question": "How do you pronounce \"sea\"? <br> <img width='150px' src='./assests/images/question/14.jpg'>",
-              "options": [
-                {
-                  "text": "Like \"say\"",
-                  "image": "./assests/images/option/52.jpg",
-                  "sound": "./assests/sounds/say.mp3"
-                },
-                {
-                  "text": "Like \"see\"",
-                  "image": "./assests/images/option/53.jpg",
-                  "sound": "./assests/sounds/see.mp3"
-                },
-                {
-                  "text": "Like \"saw\"",
-                  "image": "./assests/images/option/54.jpg",
-                  "sound": "./assests/sounds/saw.mp3"
-                },
-                {
-                  "text": "Like \"sew\"",
-                  "image": "./assests/images/option/55.jpg",
-                  "sound": "./assests/sounds/sew.mp3"
-                }
-              ],
-              "answer": 1,
-              "explanation": "\"Sea\" has the long \"e\" sound, just like \"see\"."
-            },
-            {
-              "questionNo": 15,
-              "question": "What's the rule for words ending in \"-ee\"? <br> ",
-              "options": [
-                {
-                  "text": "Always short \"e\"",
-                  "image": "./assests/images/option/56.jpg"
-                },
-                {
-                  "text": "Always long \"e\"",
-                  "image": "./assests/images/option/57.jpg"
-                },
-                {
-                  "text": "Sometimes long, sometimes short",
-                  "image": "./assests/images/option/58.jpg"
-                },
-                {
-                  "text": "No rule",
-                  "image": "./assests/images/option/59.jpg"
-                }
-              ],
-              "answer": 1,
-              "explanation": "Words ending in \"-ee\" always have the long \"e\" sound."
-            },
-            {
-              "questionNo": 16,
-              "questionSound": "./assests/sounds/free.mp3",
-              "question": "Hear the word and choose the correct spelling: <img width='150px' src='./assests/images/question/16.jpg'>",
-              "options": [
-                {
-                  "text": "Fire",
-                  "image": "./assests/images/option/60.jpg"
-                },
-                {
-                  "text": "Far",
-                  "image": "./assests/images/option/61.jpg"
-                },
-                {
-                  "text": "Fry",
-                  "image": "./assests/images/option/62.jpg"
-                },
-                {
-                  "text": "Free",
-                  "image": "./assests/images/option/63.jpg"
-                }
-              ],
-              "answer": 3,
-              "explanation": "The correct spelling is F-R-E-E. It means you don’t have to pay for it or are not being held by anything."
-            },
-            {
-              "questionNo": 17,
-              "question": "Which word has the same \"ea\" sound as \"head\"? ",
-              "questionSound": "./assests/sounds/head.mp3",
-              "options": [
-                {
-                  "text": "Heat",
-                  "image": "./assests/images/option/64.jpg",
-                  "sound": "./assests/sounds/heat.mp3"
-                },
-                {
-                  "text": "Bread",
-                  "image": "./assests/images/option/65.jpg",
-                  "sound": "./assests/sounds/bread.mp3"
-                },
-                {
-                  "text": "Bead",
-                  "image": "./assests/images/option/66.jpg",
-                  "sound": "./assests/sounds/bead.mp3"
-                },
-                {
-                  "text": "Treat",
-                  "image": "./assests/images/option/67.jpg",
-                  "sound": "./assests/sounds/treat.mp3"
-                }
-              ],
-              "answer": 1,
-              "explanation": "\"Bread\" has the same short \"e\" sound as \"head\", while the others have a long \"e\" sound."
-            },
-            {
-              "questionNo": 18,
-              "questionSound": "./assests/sounds/great.mp3",
-              "question": "Hear the wordand complete the word: GR_ _T ",
-              "options": [
-                {
-                  "text": "EE",
-                  "image": "./assests/images/option/68.jpg"
-                },
-                {
-                  "text": "EA",
-                  "image": "./assests/images/option/69.jpg"
-                }
-              ],
-              "answer": 1,
-              "explanation": "The complete spelling is G-R-E-A-T. The diphthong 'ea' makes an 'a' sound."
-            },
-            {
-              "questionNo": 19,
-              "question": "What's the \"ee\" sound in \"coffee\"? <br> <img width='150px' src='./assests/images/question/19.jpg'>",
-              "questionSound": "./assests/sounds/coffee.mp3",
-              "options": [
-                {
-                  "text": "Long \"e\"",
-                  "image": "./assests/images/option/70.jpg"
-                },
-                {
-                  "text": "Short \"e\"",
-                  "image": "./assests/images/option/71.jpg"
-                },
-                {
-                  "text": "Long \"a\"",
-                  "image": "./assests/images/option/72.jpg"
-                },
-                {
-                  "text": "Short \"s\"",
-                  "image": "./assests/images/option/73.jpg"
-                }
-              ],
-              "answer": 0,
-              "explanation": "The \"-ee\" in \"coffee\" makes the long \"e\" sound, following the rule for words ending in \"-ee\"."
-            },
-            {
-              "questionNo": 20,
-              "question": "Which word means \"to move fast\"? <br> ",
-              "options": [
-                {
-                  "text": "Speed",
-                  "image": "./assests/images/option/74.jpg"
-                },
-                {
-                  "text": "Sped",
-                  "image": "./assests/images/option/75.jpg"
-                },
-                {
-                  "text": "Spid",
-                  "image": "./assests/images/option/76.jpg"
-                },
-                {
-                  "text": "Spud",
-                  "image": "./assests/images/option/77.jpg"
-                }
-              ],
-              "answer": 0,
-              "explanation": "\"Speed\" means to move fast. It has the \"ee\" spelling making the long \"e\" sound."
+              "text": "road",
+              "image": "./assests/images/option/28.jpg",
+              "sound": "./assests/sounds/option/road.mp3"
             }
-         
+          ],
+          "answer": 3,
+          "explanation": "'Road' has a long 'o' sound, while 'dog', 'log', and 'frog' all have an ‘aw’ sound. The 'oa' in 'road' typically represents the long 'o' sound."
+        },
+        {
+          "questionNo": 9,
+          "question": "How is the 'oo' pronounced in 'food'? <br> <img width='150px' src='./assests/images/question/9.png'>",
+          "questionSound":"./assests/sounds/question/food.mp3",
+          "options": [
+            {
+              "text": "Like in 'moon'",
+              "image": "./assests/images/option/29.jpg",
+              "sound": "./assests/sounds/option/moon.mp3"
+            },
+            {
+              "text": "Like in 'book'",
+              "image": "./assests/images/option/30.jpg",
+              "sound": "./assests/sounds/option/book.mp3"
+            },
+            {
+              "text": "Like in 'flood'",
+              "image": "./assests/images/option/31.jpg",
+              "sound": "./assests/sounds/option/flood.mp3"
+            }
+          ],
+          "answer": 0,
+          "explanation": "In 'food', the 'oo' is pronounced with a long sound, like in 'moon'."
+        },
+        {
+          "questionNo": 10,
+          "question": "Which word has the same 'o' sound as 'cot'?<br>",
+          "questionSound":"./assests/sounds/question/cot.mp3",
+          "options": [
+            {
+              "text": "coat",
+              "image": "./assests/images/option/32.jpg",
+              "sound": "./assests/sounds/option/coat.mp3"
+            },
+            {
+              "text": "school",
+              "image": "./assests/images/option/33.jpg",
+              "sound": "./assests/sounds/option/school.mp3"
+            },
+            {
+              "text": "pot",
+              "image": "./assests/images/option/34.jpg",
+              "sound": "./assests/sounds/option/pot.mp3"
+            },
+            {
+              "text": "note",
+              "image": "./assests/images/option/35.jpg",
+              "sound": "./assests/sounds/option/note.mp3"
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Pot' has the same ‘aw’ sound as 'cot'. This sound is often represented by a single 'o' followed by a consonant in short words."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which word has a different 'o' sound from the others?<br>",
+          "questionSound":"./assests/sounds/question/good.mp3",
+          "options": [
+            {
+              "text": "rock",
+              "image": "./assests/images/option/36.jpg",
+              "sound": "./assests/sounds/option/rock.mp3"
+            },
+            {
+              "text": "sock",
+              "image": "./assests/images/option/37.jpg",
+              "sound": "./assests/sounds/option/sock.mp3"
+            },
+            {
+              "text": "lock",
+              "image": "./assests/images/option/38.jpg",
+              "sound": "./assests/sounds/option/lock.mp3"
+            },
+            {
+              "text": "poke",
+              "image": "./assests/images/option/39.jpg",
+              "sound": "./assests/sounds/option/poke.mp3"
+            }
+          ],
+          "answer": 3,
+          "explanation": "'Poke' has a long 'o' sound, while 'rock', 'sock', and 'lock' all have an ‘aw’ sound. The silent 'e' at the end of 'poke' makes the 'o' say its name."
+        },
+        {
+          "questionNo": 12,
+          "question": "Which word has the same 'oo' sound as 'good'?",
+          "options": [
+            {
+              "text": "spoon",
+              "image": "./assests/images/option/40.jpg",
+              "sound": "./assests/sounds/option/spoon.mp3"
+            },
+            {
+              "text": "hood",
+              "image": "./assests/images/option/41.jpg",
+              "sound": "./assests/sounds/option/hood.mp3"
+            },
+            {
+              "text": "moon",
+              "image": "./assests/images/option/42.jpg",
+              "sound": "./assests/sounds/option/moon.mp3"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Hood' has the same short 'oo' sound as 'good'. This is different from the more common long 'oo' sound in words like 'spoon' and 'moon'."
+        },
+        {
+          "questionNo": 13,
+          "question": "Choose the correct spelling: <br> <img width='150px' src='./assests/images/question/13.png'>",
+          "options": [
+            {
+              "text": "Butter",
+              "image": "./assests/images/option/43.jpg",
+              "sound": "./assests/sounds/option/butter.mp3"
+            },
+            {
+              "text": "Buter",
+              "image": "./assests/images/option/44.jpg",
+              "sound": "./assests/sounds/option/buter.mp3"
+            },
+            {
+              "text": "Butar",
+              "image": "./assests/images/option/45.jpg",
+              "sound": "./assests/sounds/option/butar.mp3"
+            }
+          ],
+          "answer": 0,
+          "explanation": "The correct spelling is 'butter.' Butter is a yellow spread made from milk, and we use it in cooking and on bread."
+        },
+        {
+          "questionNo": 14,
+          "question": "Look at the image and choose the word: <br> <img width='150px' src='./assests/images/question/14.png'>",
+          "image": "./assests/images/spoon.png",
+          "options": [
+            {
+              "text": "Spon",
+              "image": "./assests/images/option/46.jpg",
+              "sound": "./assests/sounds/option/spon.mp3"
+            },
+            {
+              "text": "Spoon",
+              "image": "./assests/images/option/47.jpg",
+              "sound": "./assests/sounds/option/spoon.mp3"
+            },
+            {
+              "text": "Spawn",
+              "image": "./assests/images/option/48.jpg",
+              "sound": "./assests/sounds/option/spawn.mp3"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The correct word is 'spoon.' A spoon is a tool we use to eat soup or stir things. It has a round part at the end and a long handle."
+        },
+        {
+          "questionNo": 15,
+          "question": "Look at the image and choose the word: <br> <img width='150px' src='./assests/images/question/15.png'>",
+          "image": "./assests/images/knife.png",
+          "options": [
+            {
+              "text": "Knife",
+              "image": "./assests/images/option/49.jpg",
+              "sound": "./assests/sounds/option/knife.mp3"
+            },
+            {
+              "text": "Nife",
+              "image": "./assests/images/option/50.jpg",
+              "sound": "./assests/sounds/option/nife.mp3"
+            },
+            {
+              "text": "Kniife",
+              "image": "./assests/images/option/51.jpg",
+              "sound": "./assests/sounds/option/kniife.mp3"
+            }
+          ],
+          "answer": 0,
+          "explanation": "The right answer is 'knife.' A knife is a tool we use for cutting food, and it has a sharp edge."
+        },
+        {
+          "questionNo": 16,
+          "question": "Hear the word and choose the correct word:  <br> <img width='150px' src='./assests/images/question/16.png'>",
+          "image": "./assests/images/soap.png",
+          "options": [
+            {
+              "text": "hop",
+              "image": "./assests/images/option/52.jpg",
+              "sound": "./assests/sounds/option/hop.mp3"
+            },
+            {
+              "text": "mop",
+              "image": "./assests/images/option/53.jpg",
+              "sound": "./assests/sounds/option/mop.mp3"
+            },
+            {
+              "text": "shop",
+              "image": "./assests/images/option/54.jpg",
+              "sound": "./assests/sounds/option/shop.mp3"
+            },
+            {
+              "text": "soap",
+              "image": "./assests/images/option/55.jpg",
+              "sound": "./assests/sounds/option/soap.mp3"
+            }
+          ],
+          "answer": 3,
+          "explanation": "The correct word is 'soap.' 'Soap' has a long 'o' sound, while 'hop', 'mop', and 'shop' all have an ‘aw’ sound. The 'oa' in 'soap' typically represents the long 'o' sound."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which word has the same 'o' sound as 'joke'? <br>",
+          "questionSound":"./assests/sounds/question/joke.mp3",
+          "options": [
+            {
+              "text": "lock",
+              "image": "./assests/images/option/56.jpg",
+              "sound": "./assests/sounds/option/lock.mp3"
+            },
+            {
+              "text": "clock",
+              "image": "./assests/images/option/57.jpg",
+              "sound": "./assests/sounds/option/clock.mp3"
+            },
+            {
+              "text": "smoke",
+              "image": "./assests/images/option/58.jpg",
+              "sound": "./assests/sounds/option/smoke.mp3"
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Smoke' has the same long 'o' sound as 'joke'. This sound is often represented by an 'o' followed by a silent 'e' at the end of a word."
+        },
+        {
+          "questionNo": 18,
+          "question": "In the word 'took', how is 'oo' pronounced?<br>",
+          "questionSound":"./assests/sounds/question/took.mp3",
+          "options": [
+            {
+              "text": "Like in 'moon'",
+              "image": "./assests/images/option/59.jpg",
+              "sound": "./assests/sounds/option/moon.mp3"
+            },
+            {
+              "text": "Like in 'book'",
+              "image": "./assests/images/option/60.jpg",
+              "sound": "./assests/sounds/option/book.mp3"
+            },
+            {
+              "text": "Like in 'pool'",
+              "image": "./assests/images/option/61.jpg",
+              "sound": "./assests/sounds/option/pool.mp3"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The 'oo' in 'took' is pronounced with a short sound, the same as in 'book'. This is different from the more common long 'oo' sound in words like 'moon'."
+        },
+        {
+          "questionNo": 19,
+          "question": "Which word has a different 'o' sound from the others?",
+          "options": [
+            {
+              "text": "job",
+              "image": "./assests/images/option/62.jpg",
+              "sound": "./assests/sounds/option/job.mp3"
+            },
+            {
+              "text": "rob",
+              "image": "./assests/images/option/63.jpg",
+              "sound": "./assests/sounds/option/rob.mp3"
+            },
+            {
+              "text": "robe",
+              "image": "./assests/images/option/64.jpg",
+              "sound": "./assests/sounds/option/robe.mp3"
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Robe' has a long 'o' sound, while 'job' and 'rob' have an ‘aw’ sound. The silent 'e' at the end of 'robe' makes the 'o' say its name."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which word rhymes with 'son'? <br> <img width='150px' src='./assests/images/question/20.png'>",
+          "questionSound":"./assests/sounds/question/son.mp3",
+          "options": [
+            {
+              "text": "soon",
+              "image": "./assests/images/option/65.jpg",
+              "sound": "./assests/sounds/option/soon.mp3"
+            },
+            {
+              "text": "fun",
+              "image": "./assests/images/option/66.jpg",
+              "sound": "./assests/sounds/option/fun.mp3"
+            },
+            {
+              "text": "hen",
+              "image": "./assests/images/option/67.jpg",
+              "sound": "./assests/sounds/option/hen.mp3"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The word that rhymes with 'son' is 'fun.' Rhyming words sound similar at the end. Both 'son' and 'fun' end with the same sound, 'un'."
+        }
       ]
     }
   ]

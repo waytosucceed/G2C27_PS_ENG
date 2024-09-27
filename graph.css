@@ -32,6 +32,7 @@
 body {
   font-family: "Arial", sans-serif;
   background-color: #f4f4f9;
+  background-color: #6482AD !important;
   margin: 0;
   padding: 0;
   color: #333;
@@ -101,20 +102,24 @@ canvas {
 
 .download-button {
   display: block;
-  width: 200px;
+  width: 230px;
   margin: 30px auto;
   padding: 10px;
   font-size: 1.1em;
   color: #fff;
-  background-color: #007bff;
+  background-color: #FF0000;
+  border: 1px solid white;
   border: none;
   border-radius: 5px;
   cursor: pointer;
   text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  font-weight: 600;
 }
 
 .download-button:hover {
-  background-color: #0056b3;
+  background-color: #A1DD70;
+  color: black;
 }
 
 #questiondiv,
@@ -127,6 +132,7 @@ canvas {
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border: 1px solid #ddd;
+  
 }
 
 #questiondiv h3 {

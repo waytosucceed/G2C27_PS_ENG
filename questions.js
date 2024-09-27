@@ -7,7 +7,7 @@ var previousQuestionIndex = null; // Track the previously displayed question
 var topicName = ''; // Variable to store the topic name
 const submitSound =document.getElementById("submit-sound");
 
-const uniqueKey = 2_16;
+const uniqueKey = 2_22;
 
 // Helper function to save data in local storage under the unique key
 function saveToLocalStorage(key, value) {
@@ -373,7 +373,7 @@ function displayResults() {
   var content = home;
   saveToLocalStorage(topicName + '_results_content', content);
 
-  var questionsPerPage = 8;
+  var questionsPerPage = 5;
   var numberOfPages = Math.ceil(questions.length / questionsPerPage);
   var questionContent = "";
   var paginationControls = "";
