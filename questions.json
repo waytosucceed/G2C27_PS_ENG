@@ -1,541 +1,490 @@
 {
-  "heading": "SSilent letters (E and K)",
+  "heading": "E vs EE words",
   "topics": [
     {
-      "heading": "Silent letters (E and K)",
+      "heading": "E vs EE words",
       "questions": [
         {
           "questionNo": 1,
-          "question": "Which word has a silent 'E' that changes the vowel sound?",
-        
+          "question": "Which word has the same vowel sound as 'feet'?<br> <img width='150px' src='./assests/images/question/1.png'>",
+          "questionSound": "./assests/sounds/option/feet.mp3",
           "options": [
             {
-              "text": "Love",
+              "text": "Feat",
               "image": "./assests/images/option/1.jpg",
-              "sound": "./assests/sounds/option/love.mp3"
+              "sound": "./assests/sounds/option/feat.mp3"
             },
             {
-              "text": "Dove",
+              "text": "Fat",
               "image": "./assests/images/option/2.jpg",
-              "sound": "./assests/sounds/option/dove.mp3"
+              "sound": "./assests/sounds/option/fat.mp3"
             },
             {
-              "text": "Glove",
+              "text": "Fit",
               "image": "./assests/images/option/3.jpg",
-              "sound": "./assests/sounds/option/glove.mp3"
+              "sound": "./assests/sounds/option/fit.mp3"
             },
             {
-              "text": "Move",
+              "text": "Foot",
               "image": "./assests/images/option/4.jpg",
-              "sound": "./assests/sounds/option/move.mp3"
+              "sound": "./assests/sounds/option/foot.mp3"
             }
           ],
-          "answer": 3,
-          "explanation": "In 'move,' the silent 'E' changes the 'O' sound to a long 'OO' sound. In other words (love, dove, glove), the 'E' is silent but doesn't change the vowel sound."
+          "answer": 0,
+          "explanation": "'Feat' has the same long 'E' sound as 'feet'. They are homophones - words that sound the same but have different spellings and meanings."
         },
         {
           "questionNo": 2,
-          "question": "Choose the word where 'K' makes a sound:",
-        
+          "question": "Which word has the same 'E' sound as 'bed'?<br> <img width='150px' src='./assests/images/question/2.png'>",
+          "questionSound": "./assests/sounds/option/bed.mp3",
           "options": [
             {
-              "text": "Knot",
+              "text": "Bead",
               "image": "./assests/images/option/5.jpg",
-              "sound": "./assests/sounds/option/knot.mp3"
+              "sound": "./assests/sounds/option/bead.mp3"
             },
             {
-              "text": "Knight",
+              "text": "Bean",
               "image": "./assests/images/option/6.jpg",
-              "sound": "./assests/sounds/option/knight.mp3"
+              "sound": "./assests/sounds/option/bean.mp3"
             },
             {
-              "text": "Kite",
+              "text": "Bend",
               "image": "./assests/images/option/7.jpg",
-              "sound": "./assests/sounds/option/kite.mp3"
-            },
-            {
-              "text": "Knife",
-              "image": "./assests/images/option/8.jpg",
-              "sound": "./assests/sounds/option/knife.mp3"
+              "sound": "./assests/sounds/option/bend.mp3"
             }
           ],
           "answer": 2,
-          "explanation": "In 'Kite,' we hear the 'K' sound at the beginning. In all other options, the 'K' is silent because it's followed by 'N'."
+          "explanation": "'Bend' has the same short 'E' (like 'eh') sound as 'bed'. The other words (bead and bean) all have a long 'E' sound."
         },
         {
           "questionNo": 3,
-          "question": "Which word has a silent 'K'?",
+          "question": "Which word has a long 'E' sound?",
           "options": [
             {
-              "text": "Key",
+              "text": "Get",
+              "image": "./assests/images/option/8.jpg",
+              "sound": "./assests/sounds/option/get.mp3"
+            },
+            {
+              "text": "Set",
               "image": "./assests/images/option/9.jpg",
-              "sound": "./assests/sounds/option/key.mp3"
+              "sound": "./assests/sounds/option/set.mp3"
             },
             {
-              "text": "Kneel",
+              "text": "Let",
               "image": "./assests/images/option/10.jpg",
-              "sound": "./assests/sounds/option/kneel.mp3"
+              "sound": "./assests/sounds/option/let.mp3"
             },
             {
-              "text": "Keep",
+              "text": "Meet",
               "image": "./assests/images/option/11.jpg",
-              "sound": "./assests/sounds/option/keep.mp3"
-            },
-            {
-              "text": "Kite",
-              "image": "./assests/images/option/12.jpg",
-              "sound": "./assests/sounds/option/kite.mp3"
+              "sound": "./assests/sounds/option/meet.mp3"
             }
           ],
-          "answer": 1,
-          "explanation": "In 'Kneel,' the 'K' is silent. We only hear the 'N' sound at the beginning. This is a common rule in English words that start with 'KN'."
+          "answer": 3,
+          "explanation": "'Meet' has a long 'E' sound made by the 'EE'. The other words (get, set, let) all have a short 'E' (eh) sound."
         },
         {
           "questionNo": 4,
-          "question": "Choose the correct spelling: <br> <img width='150px' src='./assests/images/question/4.png'>",
-          "questionSound": "./assests/sounds/question/knock.mp3",
-
+          "question": "How do you pronounce the 'EA' in 'seat'?<br> <img width='150px' src='./assests/images/question/4.png'>",
+          "questionSound": "./assests/sounds/option/seat.mp3",
           "options": [
             {
-              "text": "Nock",
-              "image": "./assests/images/option/13.jpg"
-            },
-            {
-              "text": "Knock",
-              "image": "./assests/images/option/14.jpg"
-            },
-            {
-              "text": "Nok",
-              "image": "./assests/images/option/15.jpg"
-            },
-            {
-              "text": "Knok",
-              "image": "./assests/images/option/16.jpg"
-            }
-          ],
-          "answer": 1,
-          "explanation": "'Knock' is the correct spelling. The 'K' is silent, but it's still part of the correct spelling. This is another example of a word where 'KN' at the beginning has a silent 'K'."
-        },
-        {
-          "questionNo": 5,
-          "question": "Which word has a silent 'E' that makes the 'U' say its name?",
-        
-          "options": [
-            {
-              "text": "Cut",
-              "image": "./assests/images/option/17.jpg",
-              "sound": "./assests/sounds/option/cut.mp3"
-            },
-            {
-              "text": "Cute",
-              "image": "./assests/images/option/18.jpg",
-              "sound": "./assests/sounds/option/cute.mp3"
-            },
-            {
-              "text": "Cub",
-              "image": "./assests/images/option/19.jpg",
-              "sound": "./assests/sounds/option/cub.mp3"
-            },
-            {
-              "text": "Cup",
-              "image": "./assests/images/option/20.jpg",
-              "sound": "./assests/sounds/option/cup.mp3"
-            }
-          ],
-          "answer": 1,
-          "explanation": "In 'cute,' the silent 'E' at the end makes the 'U' say its name (long 'U' sound). Without the 'E', it would be 'cut' with a short 'U' sound."
-        },
-        {
-          "questionNo": 6,
-          "question": "What sound does the 'A' make in 'cake' because of the silent 'E'?<br> <img width='150px' src='./assests/images/question/6.png'>",
-          "questionSound": "./assests/sounds/question/cake.mp3",
-          "options": [
-            {
-              "text": "Short 'A' like in 'cat'",
-              "image": "./assests/images/option/21.jpg",
-              "sound": "./assests/sounds/option/cat.mp3"
-            },
-            {
-              "text": "Long 'A' like in 'day'",
-              "image": "./assests/images/option/22.jpg",
-              "sound": "./assests/sounds/option/day.mp3"
-            },
-            {
-              "text": "Short 'E' like in 'pet'",
-              "image": "./assests/images/option/23.jpg",
-              "sound": "./assests/sounds/option/pet.mp3"
+              "text": "Short 'E' like in 'bed'",
+              "image": "./assests/images/option/12.jpg"
             },
             {
               "text": "Long 'E' like in 'me'",
-              "image": "./assests/images/option/24.jpg",
-              "sound": "./assests/sounds/option/me.mp3"
+              "image": "./assests/images/option/13.jpg"
             }
           ],
-          "answer": 3,
-          "explanation": "The silent 'E' at the end of 'cake' makes the 'A' say its name, which is the long 'A' sound, just like in 'day'."
+          "answer": 1,
+          "explanation": "In 'seat', the 'EA' makes a long 'E' sound, just like in 'me'. It's not two separate sounds, but one long 'E' sound."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which word doesn't rhyme with the others?",
+          "options": [
+            {
+              "text": "Meet",
+              "image": "./assests/images/option/14.jpg",
+              "sound": "./assests/sounds/option/meet.mp3"
+            },
+            {
+              "text": "Beat",
+              "image": "./assests/images/option/15.jpg",
+              "sound": "./assests/sounds/option/beat.mp3"
+            },
+            {
+              "text": "Bet",
+              "image": "./assests/images/option/16.jpg",
+              "sound": "./assests/sounds/option/bet.mp3"
+            },
+            {
+              "text": "Feet",
+              "image": "./assests/images/option/17.jpg",
+              "sound": "./assests/sounds/option/feet.mp3"
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Bet' has a short 'E' (eh) sound and doesn't rhyme with the others. 'Meet', 'beat', and 'feet' all have the long 'E' sound and rhyme."
+        },
+        {
+          "questionNo": 6,
+          "question": "In \"sheep\", how many \"E\" sounds do you hear?<br> <img width='150px' src='./assests/images/question/6.png'>",
+          "questionSound": "./assests/sounds/option/sheep.mp3",
+          "options": [
+            {
+              "text": "0",
+              "image": "./assests/images/option/18.jpg"
+            },
+            {
+              "text": "1",
+              "image": "./assests/images/option/19.jpg"
+            },
+            {
+              "text": "2",
+              "image": "./assests/images/option/20.jpg"
+            }
+          ],
+          "answer": 1,
+          "explanation": "In \"sheep\", you hear only one \"E\" sound. The \"EE\" makes one long \"E\" sound, not two separate sounds."
         },
         {
           "questionNo": 7,
-          "question": "Choose the word where 'K' is NOT silent:",
+          "question": "Fill in the blank: <br> The b___ buzzed around the flower.",
           "options": [
             {
-              "text": "Knit",
-              "image": "./assests/images/option/25.jpg",
-              "sound": "./assests/sounds/option/knit.mp3"
+              "text": "ee",
+              "image": "./assests/images/option/21.jpg"
             },
             {
-              "text": "Know",
-              "image": "./assests/images/option/26.jpg",
-              "sound": "./assests/sounds/option/know.mp3"
+              "text": "ea",
+              "image": "./assests/images/option/22.jpg"
             },
             {
-              "text": "Knob",
-              "image": "./assests/images/option/27.jpg",
-              "sound": "./assests/sounds/option/knob.mp3"
+              "text": "e",
+              "image": "./assests/images/option/23.jpg"
             },
             {
-              "text": "Koala",
-              "image": "./assests/images/option/28.jpg",
-              "sound": "./assests/sounds/option/koala.mp3"
+              "text": "i",
+              "image": "./assests/images/option/24.jpg"
             }
           ],
-          "answer": 3,
-          "explanation": "In 'Koala,' we hear the 'K' sound at the beginning. In all the other options (knit, know, knob), the 'K' is silent because it's followed by 'N'."
+          "answer": 0,
+          "explanation": "The correct word is \"bee\". \"Bee\" uses the \"ee\" spelling to make the long \"E\" sound. It's the insect that makes a buzzing sound and likes flowers."
         },
         {
           "questionNo": 8,
-          "question": "Fill in the blank with the correct spelling: The dog likes to ___ with a bone.",
+          "question": "Which word has a different \"E\" sound from the others?",
           "options": [
             {
-              "text": "Ply",
-              "image": "./assests/images/option/29.jpg"
+              "text": "deep",
+              "image": "./assests/images/option/25.jpg",
+              "sound": "./assests/sounds/option/deep.mp3"
             },
             {
-              "text": "Play",
-              "image": "./assests/images/option/30.jpg"
-            },
-            {
-              "text": "Pley",
-              "image": "./assests/images/option/31.jpg"
-            },
-            {
-              "text": "Plaay",
-              "image": "./assests/images/option/32.jpg"
-            }
-          ],
-          "answer": 1,
-          "explanation": "The correct word is 'Play.' The correct sentence will be 'The dog likes to play with a bone.' 'Play' means to do something to enjoy yourself; and to have fun."
-        },
-        {
-          "questionNo": 9,
-          "question": "Look at the image and choose the correct word:<br> <img width='150px' src='./assests/images/question/9.png'>",
-          "questionImage": "./assests/images/question/tree.jpg",
-          "options": [
-            {
-              "text": "Tree",
-              "image": "./assests/images/option/34.jpg"
-            },
-            {
-              "text": "Free",
-              "image": "./assests/images/option/35.jpg"
-            },
-            {
-              "text": "Tire",
-              "image": "./assests/images/option/36.jpg"
-            },
-            {
-              "text": "Tear",
-              "image": "./assests/images/option/37.jpg"
-            }
-          ],
-          "answer": 0,
-          "explanation": "The image is of a 'Tree.' A tree is a tall plant that can live for a long time."
-        },
-        {
-          "questionNo": 10,
-          "question": "Hear the word and choose the correct spelling:<br> <img width='150px' src='./assests/images/question/10.png'>",
-          "questionSound": "./assests/sounds/question/knuckle.mp3",
-          "options": [
-            {
-              "text": "Nuckle",
-              "image": "./assests/images/option/38.jpg"
-            },
-            {
-              "text": "Knuckle",
-              "image": "./assests/images/option/39.jpg"
-            },
-            {
-              "text": "Nukle",
-              "image": "./assests/images/option/40.jpg"
-            },
-            {
-              "text": "Knukle",
-              "image": "./assests/images/option/41.jpg"
-            }
-          ],
-          "answer": 1,
-          "explanation": "The correct word is 'Knuckle.' It is the bones where your fingers join the rest of your hand."
-        },
-        {
-          "questionNo": 11,
-          "question": "Which word does not follow the silent 'E' rule?",
-          "options": [
-            {
-              "text": "Hate",
-              "image": "./assests/images/option/42.jpg",
-              "sound": "./assests/sounds/option/hate.mp3"
-            },
-            {
-              "text": "Mute",
-              "image": "./assests/images/option/43.jpg",
-              "sound": "./assests/sounds/option/mute.mp3"
-            },
-            {
-              "text": "Eat",
-              "image": "./assests/images/option/44.jpg",
-              "sound": "./assests/sounds/option/eat.mp3"
-            },
-            {
-              "text": "Tube",
-              "image": "./assests/images/option/45.jpg",
-              "sound": "./assests/sounds/option/tube.mp3"
-            }
-          ],
-          "answer": 2,
-          "explanation": "The letter 'E' in the word 'Eat' is not silent, as it comes at the beginning and not at the end."
-        },
-        {
-          "questionNo": 12,
-          "question": "Fill in the silent letter to complete the word: CAK_ <br> <img width='150px' src='./assests/images/question/12.png'>",
-          "questionImage": "./assests/images/question/cake.jpg",
-          "options": [
-            {
-              "text": "K",
-              "image": "./assests/images/option/47.jpg"
-            },
-            {
-              "text": "S",
-              "image": "./assests/images/option/48.jpg"
-            },
-            {
-              "text": "E",
-              "image": "./assests/images/option/49.jpg"
-            },
-            {
-              "text": "T",
-              "image": "./assests/images/option/50.jpg"
-            }
-          ],
-          "answer": 2,
-          "explanation": "In 'Cake,' the letter 'E' at the end is silent. It helps make the 'A' sound long, but we don’t pronounce the 'E.'"
-        },
-        {
-          "questionNo": 13,
-          "question": "Hear the word and guess the speeling:<br> <img width='150px' src='./assests/images/question/13.png'>",
-          "questionSound": "./assests/sounds/question/ripe.mp3",
-          "options": [
-            {
-              "text": "Riep",
-              "image": "./assests/images/option/51.jpg"
-            },
-            {
-              "text": "Rip",
-              "image": "./assests/images/option/52.jpg"
-            },
-            {
-              "text": "Ripe",
-              "image": "./assests/images/option/53.jpg"
-            }
-          ],
-          "answer": 1,
-          "explanation": "The silent 'E' at the end of 'ripe' makes the 'I' sound long, meaning it says its name. Without the 'E', it would be 'rip' with a short 'I' sound."
-        },
-        {
-          "questionNo": 14,
-          "question": "Which word has a silent 'K'?",
-          "options": [
-            {
-              "text": "Kneel",
-              "image": "./assests/images/option/54.jpg",
-              "sound": "./assests/sounds/option/kneel.mp3"
-            },
-            {
-              "text": "Knot",
-              "image": "./assests/images/option/55.jpg",
-              "sound": "./assests/sounds/option/knot.mp3"
-            },
-            {
-              "text": "Knife",
-              "image": "./assests/images/option/56.jpg",
-              "sound": "./assests/sounds/option/knife.mp3"
-            },
-            {
-              "text": "All of the above",
-              "image": "./assests/images/option/57.jpg"
-            }
-          ],
-          "answer": 3,
-          "explanation": "All the given words have a silent 'K.' All the words have 'K' with 'N.' We hear 'Neel,' 'Not,' and 'Nife.'"
-        },
-        {
-          "questionNo": 15,
-          "question": "Choose the word that rhymes with 'know':",
-          "options": [
-            {
-              "text": "Now",
-              "image": "./assests/images/option/58.jpg",
-              "sound": "./assests/sounds/option/now.mp3"
-            },
-            {
-              "text": "Low",
-              "image": "./assests/images/option/59.jpg",
-              "sound": "./assests/sounds/option/low.mp3"
-            },
-            {
-              "text": "Cow",
-              "image": "./assests/images/option/60.jpg",
-              "sound": "./assests/sounds/option/cow.mp3"
-            },
-            {
-              "text": "How",
-              "image": "./assests/images/option/61.jpg",
-              "sound": "./assests/sounds/option/how.mp3"
-            }
-          ],
-          "answer": 1,
-          "explanation": "'Know' and 'low' rhyme because they both have the long 'O' sound at the end. In 'know,' the 'K' is silent, while in 'low,' there's no 'K' at all."
-        },
-        {
-          "questionNo": 16,
-          "question": "In which word does the 'K' make a sound?",
-          "options": [
-            {
-              "text": "Knock",
-              "image": "./assests/images/option/62.jpg",
-              "sound": "./assests/sounds/option/knock.mp3"
-            },
-            {
-              "text": "Knit",
-              "image": "./assests/images/option/63.jpg",
-              "sound": "./assests/sounds/option/knit.mp3"
-            },
-            {
-              "text": "Knob",
-              "image": "./assests/images/option/64.jpg",
-              "sound": "./assests/sounds/option/knob.mp3"
-            },
-            {
-              "text": "Kick",
-              "image": "./assests/images/option/65.jpg",
-              "sound": "./assests/sounds/option/kick.mp3"
-            }
-          ],
-          "answer": 3,
-          "explanation": "The word 'Kick' does not follow the rule of letter 'K' with an 'N.'"
-        },
-        {
-          "questionNo": 17,
-          "question": "Fill in the correct letter to complete the word: K_IGHT <br> <img width='150px' src='./assests/images/question/17.png'>",
-          "questionImage": "./assests/images/question/knight.jpg",
-          "options": [
-            {
-              "text": "N",
-              "image": "./assests/images/option/67.jpg",
-              "sound": "./assests/sounds/option/n.mp3"
-            },
-            {
-              "text": "C",
-              "image": "./assests/images/option/68.jpg",
-              "sound": "./assests/sounds/option/c.mp3"
-            },
-            {
-              "text": "F",
-              "image": "./assests/images/option/69.jpg",
-              "sound": "./assests/sounds/option/f.mp3"
-            },
-            {
-              "text": "K",
-              "image": "./assests/images/option/70.jpg",
-              "sound": "./assests/sounds/option/k.mp3"
-            }
-          ],
-          "answer": 0,
-          "explanation": "The correct word is 'KNIGHT.' A 'Knight' is a soldier of a high level who fought on a horse in the Middle Ages."
-        },
-        {
-          "questionNo": 18,
-          "question": "The words 'Knight' and 'Night' do not rhyme.",
-          "options": [
-            {
-              "text": "True",
-              "image": "./assests/images/option/71.jpg",
-              "sound": "./assests/sounds/option/true.mp3"
-            },
-            {
-              "text": "False",
-              "image": "./assests/images/option/72.jpg",
-              "sound": "./assests/sounds/option/false.mp3"
-            }
-          ],
-          "answer": 1,
-          "explanation": "Both the word 'Knight' and 'Night' rhyme together. Both of these words end with an /ight/ sound."
-        },
-        {
-          "questionNo": 19,
-          "question": "Which word ends with a silent letter?",
-          "options": [
-            {
-              "text": "Jump",
-              "image": "./assests/images/option/73.jpg",
-              "sound": "./assests/sounds/option/jump.mp3"
-            },
-            {
-              "text": "Lamp",
-              "image": "./assests/images/option/74.jpg",
-              "sound": "./assests/sounds/option/lamp.mp3"
-            },
-            {
-              "text": "File",
-              "image": "./assests/images/option/75.jpg",
-              "sound": "./assests/sounds/option/file.mp3"
-            },
-            {
-              "text": "Car",
-              "image": "./assests/images/option/76.jpg",
-              "sound": "./assests/sounds/option/car.mp3"
-            }
-          ],
-          "answer": 1,
-          "explanation": "TThe letter 'E' at the end of 'File' is silent."
-        },
-        {
-          "questionNo": 20,
-          "question": "Which word has a silent 'K'?",
-          "options": [
-            {
-              "text": "Kneel",
-              "image": "./assests/images/option/77.jpg",
-              "sound": "./assests/sounds/option/kneel.mp3"
-            },
-            {
-              "text": "Kilo",
-              "image": "./assests/images/option/78.jpg",
-              "sound": "./assests/sounds/option/kilo.mp3"
-            },
-            {
-              "text": "Keep",
-              "image": "./assests/images/option/79.jpg",
+              "text": "keep",
+              "image": "./assests/images/option/26.jpg",
               "sound": "./assests/sounds/option/keep.mp3"
             },
             {
-              "text": "Key",
-              "image": "./assests/images/option/80.jpg",
-              "sound": "./assests/sounds/option/key.mp3"
+              "text": "step",
+              "image": "./assests/images/option/27.jpg",
+              "sound": "./assests/sounds/option/step.mp3"
+            },
+            {
+              "text": "sleep",
+              "image": "./assests/images/option/28.jpg",
+              "sound": "./assests/sounds/option/sleep.mp3"
+            }
+          ],
+          "answer": 2,
+          "explanation": "In \"step\", the \"E\" makes a short \"E\" (eh) sound (like in \"egg\"). The other words (deep, keep, sleep) all have the long \"E\" sound made by \"EE\"."
+        },
+        {
+          "questionNo": 9,
+          "question": "How do you say the \"E\" in \"me\"?<br> <img width='150px' src='./assests/images/question/9.png'>",
+          "questionSound": "./assests/sounds/option/me.mp3",
+          "options": [
+            {
+              "text": "Like the \"E\" in \"bed\"",
+              "image": "./assests/images/option/29.jpg",
+              "sound": "./assests/sounds/option/bed.mp3"
+            },
+            {
+              "text": "Like the \"EE\" in \"sleep\"",
+              "image": "./assests/images/option/30.jpg",
+              "sound": "./assests/sounds/option/sleep.mp3"
+            }
+          ],
+          "answer": 1,
+          "explanation": "In \"me\", the \"E\" makes a long \"E\" sound, just like the \"EE\" in \"sleep\". It's the sound you make when you say the letter \"E\"."
+        },
+        {
+          "questionNo": 10,
+          "question": "Fill in the blank:<br> The cat likes to sl___ in the sun.",
+          "options": [
+            {
+              "text": "ep",
+              "image": "./assests/images/option/31.jpg"
+            },
+            {
+              "text": "eep",
+              "image": "./assests/images/option/32.jpg"
+            },
+            {
+              "text": "ip",
+              "image": "./assests/images/option/33.jpg"
+            },
+            {
+              "text": "eap",
+              "image": "./assests/images/option/34.jpg"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The correct word is \"sleep\". \"Sleep\" uses the \"ee\" spelling to make the long \"E\" sound. It means to rest with your eyes closed."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which word rhymes with \"feet\"?<br> <img width='150px' src='./assests/images/question/11.png'>",
+          "questionSound": "./assests/sounds/option/feet.mp3",
+          "options": [
+            {
+              "text": "fet",
+              "image": "./assests/images/option/35.jpg",
+              "sound": "./assests/sounds/option/fet.mp3"
+            },
+            {
+              "text": "fat",
+              "image": "./assests/images/option/36.jpg",
+              "sound": "./assests/sounds/option/fat.mp3"
+            },
+            {
+              "text": "fit",
+              "image": "./assests/images/option/37.jpg",
+              "sound": "./assests/sounds/option/fit.mp3"
+            },
+            {
+              "text": "sweet",
+              "image": "./assests/images/option/38.jpg",
+              "sound": "./assests/sounds/option/sweet.mp3"
+            }
+          ],
+          "answer": 3,
+          "explanation": "\"Sweet\" rhymes with \"feet\". Both words end with the \"eet\" sound, which makes the long \"E\" sound."
+        },
+        {
+          "questionNo": 12,
+          "question": "Fill in the blank: <br>I like to ___ books about animals.",
+          "options": [
+            {
+              "text": "red",
+              "image": "./assests/images/option/39.jpg"
+            },
+            {
+              "text": "reed",
+              "image": "./assests/images/option/40.jpg"
+            },
+            {
+              "text": "read",
+              "image": "./assests/images/option/41.jpg"
+            }
+          ],
+          "answer": 2,
+          "explanation": "The correct word is \"read\". In this sentence, \"read\" is pronounced with a long \"E\" sound, like \"reed\". It means to look at and understand written words."
+        },
+        {
+          "questionNo": 13,
+          "question": "Listen to the word and choose the correct word:",
+          "questionSound": "./assests/sounds/option/sheep.mp3",
+          "options": [
+            {
+              "text": "See",
+              "image": "./assests/images/option/42.jpg"
+            },
+            {
+              "text": "Sheep",
+              "image": "./assests/images/option/43.jpg"
+            },
+            {
+              "text": "Sea",
+              "image": "./assests/images/option/44.jpg"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The correct word is \"Sheep.\" The letter \"E\" in the word \"Sheep\" makes a long \"E\" sound, as in the words \"See\" and \"Tree.\""
+        },
+        {
+          "questionNo": 14,
+          "question": "Which word has a short \"E\" (like eh) sound?",
+          "options": [
+            {
+              "text": "we",
+              "image": "./assests/images/option/45.jpg",
+              "sound": "./assests/sounds/option/we.mp3"
+            },
+            {
+              "text": "be",
+              "image": "./assests/images/option/46.jpg",
+              "sound": "./assests/sounds/option/be.mp3"
+            },
+            {
+              "text": "pet",
+              "image": "./assests/images/option/47.jpg",
+              "sound": "./assests/sounds/option/pet.mp3"
+            },
+            {
+              "text": "me",
+              "image": "./assests/images/option/48.jpg",
+              "sound": "./assests/sounds/option/me.mp3"
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Pet\" has a short \"E\" (like eh) sound, like in \"egg\". The other words (we, be, me) all have a long \"E\" sound."
+        },
+        {
+          "questionNo": 15,
+          "question": "Fill in the blank:<br> The sh___ has white wool.",
+          "options": [
+            {
+              "text": "ep",
+              "image": "./assests/images/option/49.jpg"
+            },
+            {
+              "text": "eep",
+              "image": "./assests/images/option/50.jpg"
+            },
+            {
+              "text": "ip",
+              "image": "./assests/images/option/51.jpg"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The correct word is \"sheep\". \"Sheep\" uses the \"ee\" spelling to make the long \"E\" sound. It's the animal that gives us wool."
+        },
+        {
+          "questionNo": 16,
+          "question": "How do you say the \"EA\" in \"eat\"?<br> <img width='150px' src='./assests/images/question/16.png'>",
+          "questionSound": "./assests/sounds/option/eat.mp3",
+          "options": [
+            {
+              "text": "Short \"E\" (eh) like in \"bed\"",
+              "image": "./assests/images/option/52.jpg",
+              "sound": "./assests/sounds/option/bed.mp3"
+            },
+            {
+              "text": "Long \"E\" like in \"bee\"",
+              "image": "./assests/images/option/53.jpg",
+              "sound": "./assests/sounds/option/bee.mp3"
+            }
+          ],
+          "answer": 1,
+          "explanation": "In \"eat\", the \"EA\" makes a long \"E\" sound, just like in \"bee\". It's not two separate sounds, but one long \"E\" sound."
+        },
+        {
+          "questionNo": 17,
+          "question": "Listen to the word and choose the correct word: ",
+          "questionSound": "./assests/sounds/option/break.mp3",
+          "options": [
+            {
+              "text": "Break",
+              "image": "./assests/images/option/54.jpg"
+            },
+            {
+              "text": "Take",
+              "image": "./assests/images/option/55.jpg"
+            },
+            {
+              "text": "Fake",
+              "image": "./assests/images/option/56.jpg"
             }
           ],
           "answer": 0,
-          "explanation": "In the word 'Kneel', the letter 'K' is silent because the letter 'N' is followed by the letter 'K.'"
+          "explanation": "The correct word is “Break.” The letter “E” in the word “Break” makes a long sound."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which word doesn't rhyme with the others?",
+          "options": [
+            {
+              "text": "peek",
+              "image": "./assests/images/option/57.jpg",
+              "sound": "./assests/sounds/option/peek.mp3"
+            },
+            {
+              "text": "seek",
+              "image": "./assests/images/option/58.jpg",
+              "sound": "./assests/sounds/option/seek.mp3"
+            },
+            {
+              "text": "week",
+              "image": "./assests/images/option/59.jpg",
+              "sound": "./assests/sounds/option/week.mp3"
+            },
+            {
+              "text": "sick",
+              "image": "./assests/images/option/60.jpg",
+              "sound": "./assests/sounds/option/sick.mp3"
+            }
+          ],
+          "answer": 3,
+          "explanation": "\"Sick\" has a short \"I\" sound and doesn't rhyme with the others. \"Peek\", \"seek\", and \"week\" all have the long \"E\" sound and rhyme."
+        },
+        {
+          "questionNo": 19,
+          "question": "Which word has a different “E” sound from the others?",
+          "options": [
+            {
+              "text": "team",
+              "image": "./assests/images/option/61.jpg",
+              "sound": "./assests/sounds/option/team.mp3"
+            },
+            {
+              "text": "cream",
+              "image": "./assests/images/option/62.jpg",
+              "sound": "./assests/sounds/option/cream.mp3"
+            },
+            {
+              "text": "them",
+              "image": "./assests/images/option/63.jpg",
+              "sound": "./assests/sounds/option/them.mp3"
+            },
+            {
+              "text": "dream",
+              "image": "./assests/images/option/64.jpg",
+              "sound": "./assests/sounds/option/dream.mp3"
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Them\" has a short \"E\" (like eh) sound, while all the other words (team, cream, dream) have a long \"E\" sound made by \"EA\"."
+        },
+        {
+          "questionNo": 20,
+          "question": "Fill in the blank:<br> I can see three tr___ in the park.",
+          "options": [
+            {
+              "text": "es",
+              "image": "./assests/images/option/65.jpg"
+            },
+            {
+              "text": "ees",
+              "image": "./assests/images/option/66.jpg"
+            },
+            {
+              "text": "eas",
+              "image": "./assests/images/option/67.jpg"
+            },
+            {
+              "text": "is",
+              "image": "./assests/images/option/68.jpg"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The correct word is \"trees\". \"Trees\" uses the \"ee\" spelling to make the long \"E\" sound. It's the plural form of \"tree\", which is a plant with a trunk and branches."
         }
+     
       ]
     }
   ]
