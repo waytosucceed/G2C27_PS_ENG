@@ -92,11 +92,13 @@
           "options": [
             {
               "text": "Short 'E' like in 'bed'",
-              "image": "./assests/images/option/12.jpg"
+              "image": "./assests/images/option/12.jpg",
+              "sound": "./assests/sounds/option/bed.mp3"
             },
             {
               "text": "Long 'E' like in 'me'",
-              "image": "./assests/images/option/13.jpg"
+              "image": "./assests/images/option/13.jpg",
+              "sound": "./assests/sounds/option/me.mp3"
             }
           ],
           "answer": 1,
